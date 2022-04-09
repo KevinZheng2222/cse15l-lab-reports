@@ -4,5 +4,5 @@ First to access your course-specific account on ieng6 easily, a IDE is needed, a
 ![Image](1.jpg)
 (HIghlighted in red is the Windows download, yellow Mac download, green Linux download)
 
-VSCode should llok like this:
+VSCode should look like this:
 ![Image](2.png)
