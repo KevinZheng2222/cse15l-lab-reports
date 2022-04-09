@@ -15,5 +15,10 @@ _Hello world!_
 
 [Hello](https://kevinzheng2222.github.io/cse15l-lab-reports/Hello.md)
 
+![Image](hi.png)
+
+
 ---
 [Lab Report 1](https://kevinzheng2222.github.io/cse15l-lab-reports/lab-report-1-week-2)
+
+[Lab Report 1](lab-report-1-week-2.html)
