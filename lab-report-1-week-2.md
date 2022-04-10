@@ -22,7 +22,7 @@ Then next is to click to Add a feature:
 
 ![Image](4.jpg)
 
-Then finally is to search for this two, if they do dnot show up then it means you have it installed.
+Then finally is to search for this two, if they do not show up then it means you have it installed.
 
 ![Image](5.png)
 
@@ -62,4 +62,4 @@ This is shown below:
 ![Image](12.png)
 
 ## Ending
-With this it should help you understannd how to log into your account on ieng6. and ways to make your usage of OpenSSH more smoother.
+With this it should help you understand how to log into your account on ieng6. and ways to make your usage of OpenSSH more smoother.
