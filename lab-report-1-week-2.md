@@ -12,7 +12,7 @@ VSCode should look like this:
 ![Image](2.png)
 
 ## Remotely Connecting
-Next step to use commands to access OpenSSH is to install both OpenSSH Client and OpenSSH Server if you are on windows.
+Next step to use commands to access OpenSSH is to install both [OpenSSH Client and OpenSSH Server](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) if you are on windows.
 These are the steps:
 First go to the settings and go into Apps. Then next go into Apps and Features as indicated below:
 
