@@ -40,3 +40,10 @@ Next is testing some commands, you can try these list of commands:
 These commands should show the result as shown below:
 
 ![Image](8.png)
+
+## Moving a File with scp
+One way to move a file from local to thr remote server is through this coding scp (file) (username)@ieng6.ucsd.edu:~/. This line of code will prompt the user for their password to allow for the file to be copied and moved into the desired location.
+
+![Image](9.png)
+
+## Setting an SSH Key
