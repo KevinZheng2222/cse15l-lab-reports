@@ -4,13 +4,23 @@ _Hello world!_
 
 **Hello world!**
 
+*Hel**lo wo**rld!*
+
+__He*llo wor*ld!__
+
 # Hello world!
 * Hello world!
 * Hello world!
 * Hello world! 
-
+> Hello world! 
 "hello"
-
+---
+`Hello world!`
+```
+Hello world! 
+*Hello world!*
+> Hello world! 
+```
 ![Image](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg)
 
 [Hello](https://kevinzheng2222.github.io/cse15l-lab-reports/Hello.md)
