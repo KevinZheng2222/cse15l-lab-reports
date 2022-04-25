@@ -13,6 +13,6 @@ For this code change we added a test to check if the program will read a link wi
 
 ### Code Change 3
 ![Image](1-2.PNG)
-[Test file 1](https://kevinzheng2222.github.io/cse15l-lab-reports/test-file2.md)
+[Test file 4](https://kevinzheng2222.github.io/cse15l-lab-reports/test-file2.md)
 ![Image](test-2-3.jpg)
 For the last code change we added a test to check if the program will read a link with a ]] at the front of the link. The program could read it, however the program printed out the incorrect behaviour we wanted, the program was printing the link with the double ]. To fix this symptom we first looked at the coding why it was printing the link, and we found that the original code did not have a condition to check for a double ]. Thus we added a if statement to check for when there is a double ], and when there is a double ] we skip that line and continue to the next line.
