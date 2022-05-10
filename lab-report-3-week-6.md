@@ -17,7 +17,25 @@ This image is showing how now commands with ssh or scp can also use the ssh conf
 
 ### Setup Github Access from ieng6
 
-This choice I ran into a problem without being able to set up the ssh public key into Github, and even after 4 hours of looking at Piazza and doing those steps, it still did not work for me.
+This option is to show how to access Github from the remote server bt git commands, using **_git commit_** and **_git push_** to push changes to the remote server through the usage of a token authentication.
+
+![Image](7-3.png)
+
+The image above shows where to place the SSH keys to allow your git account to know you are accessing from your remote account to cimmit changes.
+
+![Image](8-3.png)
+
+The image above shows where the private key is stored in your account and it is the file id_rsa.
+
+![Image](9-3.png)
+
+The image above shows the usage of the commands **_git commit_** and **_git push_** to commit a change on from the remote server and pushing it onto Github.
+
+This is the link to the [commit](https://github.com/KevinZheng2222/cse15l-lab-reports/commit/ba0d253588b09c0c42e2fb6f357f5c7b44844d8b) shown above.
+
+
+
+
 
 ### Copy whole directories with scp -r
 
