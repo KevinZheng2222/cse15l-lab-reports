@@ -46,3 +46,5 @@ Password:[]
 [Lab Report 3](https://kevinzheng2222.github.io/cse15l-lab-reports/Labreport3/lab-report-3-week-6)
 
 [Lab Report 4](https://kevinzheng2222.github.io/cse15l-lab-reports/Labreport4/lab-report-4-week-8)
+
+[Lab Report 5](https://kevinzheng2222.github.io/cse15l-lab-reports/Labreport5/lab-report-5-week-10)
